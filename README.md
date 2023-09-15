@@ -15,7 +15,13 @@ Lorem Ipsum....
 ```shell
 poetry shell
 ```
-1. Install venv dependencies
+
+2. Install venv dependencies
 ```shell
 poetry install
+```
+
+3. Install venv dependencies
+```shell
+make pc
 ```
