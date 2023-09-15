@@ -5,3 +5,7 @@ pc:
 # init env
 env:
 	cp .env.sample .env
+
+# open repository on browser
+or:
+	open https://github.com/guimassoqueto/repository-name
